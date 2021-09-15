@@ -23,4 +23,8 @@ while key!='c':
     else:
         print("請重新輸入")
     key=input("是否繼續運算,是請按y,否請按c:")
+
+
+
+x=5
     
